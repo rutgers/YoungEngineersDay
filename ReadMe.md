@@ -2,7 +2,9 @@
 
 **Functions:**
     - RotateRight()
+
     - RotateLeft()
+    
     - setForwards()
     - setBackwards()
     - setSpeedBoth()
