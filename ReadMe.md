@@ -2,8 +2,8 @@
 
 **Functions:**
     *RotateRight()
-    *RotateLeft()
-    *setForwards()
-    *setBackwards()
-    *setSpeedBoth()
-    *stopBoth()
+    RotateLeft()
+    setForwards()
+    setBackwards()
+    setSpeedBoth()
+    stopBoth()
