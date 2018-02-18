@@ -4,7 +4,7 @@
 
     - Have Robots cross the finish line and pass the obstacles
     
-    - Learn coding
+    - Learn coding & hardware (wiring)
     
     - Learning the meaning of ECE
     
