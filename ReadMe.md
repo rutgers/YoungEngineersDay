@@ -1,6 +1,6 @@
 # Young Engineers day Project!
 
-# WELCOME Young Engineers!! 
+# Welcome Young Engineers to Rutgers!! 
    
 
 **Goals**
