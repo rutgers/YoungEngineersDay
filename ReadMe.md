@@ -17,9 +17,9 @@
 
 **Functions:**
 
-    - RotateRight()
-    - RotateLeft()
-    - setForwards()
-    - setBackwards()
-    - setSpeedBoth()
-    - stopBoth()
+    - turnRight()
+    - turnLeft()
+    - motor->run(FORWARDS)
+    - motor->run(BACKWARDS)
+    - motor->run(RELEASE)
+    - motor->setSpeed(x), 0<=x<=255
